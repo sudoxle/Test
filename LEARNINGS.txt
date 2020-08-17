@@ -1,0 +1,10 @@
+php artisan serve
+php artisan make:auth
+
+
+npm run development
+npm run dev
+
+php artisan migrate
+
+30:00 onwards Font customizations                                                                                                                                                                                                                 
